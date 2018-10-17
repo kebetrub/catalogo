@@ -1,0 +1,28 @@
+/** crear div del articulo 
+ crear img (SRC ORIg)
+ "" P (texto ORIg)
+c+texto id 
+
+function anyade (articulo)
+{
+    consoles.log(laptop1)
+}
+s
+miboton=document.createElement("button");
+textboton=document.createTextNode("borrar");
+miboton.id="boton1";
+miboton.appendChild(textototon);
+document.body.appendChild(miboton);
+miboton.onclick=funtion(){
+
+}
+
+
+
+if.document.getElemenbById("c"+atributo.id)==null){
+    no esta => nuevo al carrito
+}
+else 
+{
+    esta => MOdificar
+}

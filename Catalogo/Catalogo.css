@@ -1,0 +1,14 @@
+.general {
+    border: 1px solid red;
+}
+
+.laptop {
+    border: 1px solid orange;
+    display: inline-block;    
+}
+
+
+.imglaptop {
+    width: 200px;
+    height: 200px;
+}
